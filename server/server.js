@@ -14,7 +14,7 @@ const userData = {
   userId: "789789",
   password: "123456",
   name: "Akash",
-  username: "GHOST",
+  username: "aka",
   isAdmin: true
 };
 
