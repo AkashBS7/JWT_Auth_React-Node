@@ -14,7 +14,7 @@ export default function DashBoard(props) {
     return (
         <div>
             <h1>Dashboard</h1>
-            {/* Welcome {user.name}!<br /><br /> */}
+            Welcome {user.name}!<br /><br />
             <button onClick={handleLogOut}>Log Out</button>
         </div>
     )
